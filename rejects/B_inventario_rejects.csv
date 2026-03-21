@@ -1,0 +1,24 @@
+id_inventario,id_producto,stock,bodega,motivo_rechazo
+I7014,nan,230,Sucursal 2,id_producto_vacio
+I7019,PR1063,nan,Sucursal 1,stock_no_numerico
+I7020,PR1024,sin dato,Tránsito,stock_no_numerico
+I7022,PR1011,sin dato,Sucursal 2,stock_no_numerico
+I7027,PR1059,203 unidades,Central,stock_no_numerico
+I7043,PR1125,nan,Sucursal 2,stock_no_numerico
+I7062,PR1044,sin dato,Sucursal 1,stock_no_numerico
+I7079,PR1076,sin dato,Tránsito,stock_no_numerico
+I7092,PR1008,nan,Sucursal 1,stock_no_numerico
+I7101,PR1061,241 unidades,Sucursal 2,stock_no_numerico
+I7102,PR1083,sin dato,Tránsito,stock_no_numerico
+I7111,PR1021,sin dato,Sucursal 2,stock_no_numerico
+I7112,nan,183,Tránsito,id_producto_vacio
+I7113,nan,238,Central,id_producto_vacio
+I7117,PR1013,sin dato,Sucursal 1,stock_no_numerico
+I7120,nan,150,Tránsito,id_producto_vacio
+I7130,PR1050,sin dato,Tránsito,stock_no_numerico
+I7134,PR1095,sin dato,Sucursal 1,stock_no_numerico
+I7150,PR1125,nan,Sucursal 2,stock_no_numerico
+I7151,nan,113,Sucursal 2,id_producto_vacio
+I7158,PR1078,112 unidades,Tránsito,stock_no_numerico
+I7161,nan,71,Tránsito,id_producto_vacio
+I7176,PR1001,nan,Central,stock_no_numerico
