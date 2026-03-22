@@ -1,0 +1,27 @@
+id_producto,producto,precio,id_proveedor,motivo_rechazo
+PR1001,Teclado 1,61.12,nan,id_proveedor_vacio
+PR1012,Router 12,USD 681.85,P323,precio_formato invalido
+PR1013,Disco SSD 13,573.88 dólares,P302,precio_formato invalido
+PR1020,Proyector 20,nan,P313,precio_formato invalido
+PR1021,Audífonos 21,nan,P333,precio_formato invalido
+PR1023,Tablet 23,nan,P302,precio_formato invalido
+PR1039,Escritorio 39,$ 114.44,P307,precio_formato invalido
+PR1040,Audífonos 40,1101.19 dólares,P304,precio_formato invalido
+PR1052,Mouse 52,303.35,nan,id_proveedor_vacio
+PR1055,Mouse 55,nan,P332,precio_formato invalido
+PR1065,Router 65,360.33,nan,id_proveedor_vacio
+PR1069,Webcam 69,$ 571.69,P309,precio_formato invalido
+PR1074,Webcam 74,49.22,nan,id_proveedor_vacio
+PR1077,Tablet 77,149.08,nan,id_proveedor_vacio
+PR1079,Laptop 79,$ 837.07,P301,precio_formato invalido
+PR1083,Silla 83,381.77 dólares,nan,"id_proveedor_vacio,precio_formato invalido"
+PR1087,Monitor 87,$ 752.94,P334,precio_formato invalido
+PR1094,Silla 94,nan,P333,precio_formato invalido
+PR1096,Disco SSD 96,nan,P314,precio_formato invalido
+PR1107,Proyector 107,504.23 dólares,P321,precio_formato invalido
+PR1113,Disco SSD 113,$ 348.25,P317,precio_formato invalido
+PR1116,Webcam 116,USD 55.3,P311,precio_formato invalido
+PR1127,Silla 127,1055.55,nan,id_proveedor_vacio
+PR1135,Mouse 135,nan,P312,precio_formato invalido
+PR1083,Silla 83,381.77 dólares,nan,"id_proveedor_vacio,precio_formato invalido"
+PR1065,Router 65,360.33,nan,id_proveedor_vacio
